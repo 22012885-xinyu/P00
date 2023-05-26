@@ -71,6 +71,6 @@ public class CalculatorTest {
 			int expected = (int) 0.14078722190530519110096976611523;
 			assertEquals(expected,actual);
 	}
-	//xy
+	//
 
 }
