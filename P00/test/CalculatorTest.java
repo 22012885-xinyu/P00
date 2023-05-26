@@ -33,7 +33,7 @@ public class CalculatorTest {
 			Calculator cal = new Calculator();
 			int actual = cal.add(a,b);
 			
-			int expected = 5555;
+			int expected = 9999;
 			assertEquals (expected,actual);
 	}
 	@Test
