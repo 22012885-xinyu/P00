@@ -46,6 +46,7 @@ public class CalculatorTest {
 			int actual = cal.subtract(a, b);
 			
 			int expected = -7531;
+			assertEquals (expected,actual);
 	}
 	@Test
 	public void testMultiply() {
